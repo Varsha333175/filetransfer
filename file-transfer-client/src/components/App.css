@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.file-list {
+  margin-top: 20px;
+  text-align: left;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.file-list .MuiBox-root {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.MuiAppBar-root {
+  margin-bottom: 20px;
+}
+
+.MuiToolbar-root {
+  display: flex;
+  justify-content: space-between;
+}
+
+.MuiButton-root {
+  margin-right: 10px;
+}
+
+.MuiCard-root {
+  cursor: pointer;
+}
+
+.MuiCardContent-root {
+  text-align: center;
+}
+
+.MuiCardActions-root {
+  justify-content: center;
+}
+
+.cardPreview {
+  height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
