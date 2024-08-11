@@ -1,3 +1,4 @@
 # Ignore node_modules directories
 node_modules/
 file-transfer-client/node_modules/
+uploads/
